@@ -1,0 +1,6 @@
+* [micro:bit v1](/en/microbit_v1)
+* [micro:bit v2](/en/microbit_v2)
+* [ELF ESP32](/en/elf_esp32)
+* [ELF ESP32 Pro](/en/elf_esp32_pro)
+* [K210 AI主控](/en/k210)
+* [中文翻译](/microbit_v1)
